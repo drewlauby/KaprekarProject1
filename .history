@@ -1,0 +1,406 @@
+#+1534886307
+ls
+#+1534886334
+mkdir dirDrew
+#+1534886343
+ls
+#+1534886380
+mkdir labs
+#+1534886382
+ls
+#+1534886419
+rm dirDrew
+#+1534886465
+cd labs
+#+1534886540
+git clone https://github.com/cbourke/CSCE155-C-Lab01
+#+1534886610
+cd CSCE155-C-Lab01
+#+1534886639
+ls
+#+1534886675
+gcc hello.c
+#+1534886677
+ls
+#+1534886696
+./a.out
+#+1534886879
+gcc hello.c
+#+1534886894
+./a.out
+#+1535505921
+ls birthday.c
+#+1535506058
+ls README.md
+#+1535506391
+gcc birthday.c
+#+1535506421
+ls
+#+1535506439
+ls CSCE155-C-Lab02
+#+1535506450
+gcc birthday.c
+#+1535506482
+./a.out birthday.c
+#+1535506619
+gcc birthday.c
+#+1535506931
+git clone https://github.com/cbourke/CSCE155-C-Lab02
+#+1535507030
+gcc birthday.c
+#+1535507056
+./a.out birthday.c
+#+1535507087
+./a.out
+#+1535507250
+gcc birthday_cli.c
+#+1535507271
+./a.out birthday_cli.c
+#+1535507352
+./a.out Ty 1999 10 8
+#+1535507478
+gcc ranges.c
+#+1535507505
+./a.out ranges.c
+#+1535508663
+gcc area.c
+#+1535508674
+./a.out area.c
+#+1535508822
+./a.out Madalyn 1999 2 16
+#+1535508914
+./a. Madalyn 1999 2 16
+#+1535508937
+./a.out birthday_cli.c
+#+1535508983
+gcc birthday_cli.c
+#+1535509000
+./a.out Madalyn 1999 2 16
+#+1535509026
+./a.out Madalyn 2000 2 16
+#+1535663678
+gcc airDistance.c
+#+1535663690
+gcc airDistance
+#+1535665006
+gcc airDistance.c
+#+1535665031
+gcc -lm airDistance.c
+#+1535665049
+./a.out airDistance.c
+#+1535665383
+gcc -lm airDistance.c
+#+1535665609
+./a.out airDistance.c
+#+1535665634
+gcc -lm airDistance.c
+#+1535665636
+./a.out airDistance.c
+#+1535665773
+gcc -lm airDistance.c
+#+1535665775
+./a.out airDistance.c
+#+1535665913
+gcc -lm airDistance.c
+#+1535665916
+./a.out airDistance.c
+#+1535673915
+gcc -ln refraction.c
+#+1535673947
+./a.out refraction.c
+#+1535674199
+gcc -lm refraction.c
+#+1535674204
+./a.out refraction.c
+#+1535674283
+gcc -lm refraction.c
+#+1535674286
+./a.out refraction.c
+#+1535674395
+gcc -lm refraction.c
+#+1535674398
+./a.out refraction.c
+#+1535674732
+gcc -lm refraction.c
+#+1535674734
+./a.out refraction.c
+#+1535674974
+gcc -lm refraction.c
+#+1535674979
+./a.out refraction.c
+#+1535675005
+gcc -lm refraction.c
+#+1535675007
+./a.out refraction.c
+#+1535677458
+gcc -lm refraction.c
+#+1535677460
+./a.out refraction.c
+#+1535677513
+gcc -lm refraction.c
+#+1535677514
+./a.out refraction.c
+#+1535677691
+gcc -lm refraction.c
+#+1535677695
+./a.out refraction.c
+#+1535677881
+gcc -lm refraction.c
+#+1535677883
+./a.out refraction.c
+#+1535678057
+gcc -lm refraction.c
+#+1535678059
+./a.out refraction.c
+#+1535678294
+gcc -lm refraction.c
+#+1535678298
+./a.out refraction.c
+#+1535678531
+gcc -lm refraction.c
+#+1535678533
+./a.out refraction.c
+#+1535679840
+gcc -lm refraction.c
+#+1535679845
+./a.out refraction.c
+#+1535679914
+gcc -lm refraction.c
+#+1535679920
+./a.out refraction.c
+#+1535679965
+gcc -lm refraction.c
+#+1535679967
+./a.out refraction.c
+#+1535680448
+gcc -lm refraction.c
+#+1535680451
+./a.out refraction.c
+#+1535680525
+gcc -lm refraction.c
+#+1535680529
+./a.out refraction.c
+#+1535680702
+gcc -lm refraction.c
+#+1535680703
+./a.out refraction.c
+#+1535681140
+gcc -lm refraction.c
+#+1535681146
+./a.out refraction.c
+#+1535682041
+gcc -lm refraction.c
+#+1535682044
+./a.out refraction.c
+#+1535682713
+gcc -lm refraction.c
+#+1536090013
+gcc -lm calculator.c
+#+1536090030
+./a.out calculator.c
+#+1536090190
+gcc -lm calculator.c
+#+1536090193
+./a.out calculator.c
+#+1536090281
+gcc -lm calculator.c
+#+1536090283
+./a.out calculator.c
+#+1536090388
+gcc -lm calculator.c
+#+1536090392
+./a.out calculator.c
+#+1536091054
+gcc -lm calculator.c
+#+1536091057
+./a.out calculator.c
+#+1536091164
+gcc -lm calculator.c
+#+1536091167
+./a.out calculator.c
+#+1536091359
+gcc -lm calculator.c
+#+1536091362
+./a.out calculator.c
+#+1536091456
+gcc -lm calculator.c
+#+1536091458
+./a.out calculator.c
+#+1536091483
+gcc -lm calculator.c
+#+1536091486
+./a.out calculator.c
+#+1536093198
+gcc -lm calculator.c
+#+1536093210
+./a.out calculator.c
+#+1536093263
+gcc -lm calculator.c
+#+1536093265
+./a.out calculator.c
+#+1536093658
+gcc -lm calculator.c
+#+1536093782
+./a.out calculator.c
+#+1536094853
+gcc leapYear.c
+#+1536094871
+./a.out leapYear.c
+#+1536095226
+gcc leapYear.c
+#+1536095231
+./a.out leapYear.c
+#+1536095343
+gcc leapYear.c
+#+1536095345
+./a.out leapYear.c
+#+1536095535
+gcc leapYear.c
+#+1536095537
+./a.out leapYear.c
+#+1536095607
+gcc leapYear.c
+#+1536095609
+./a.out leapYear.c
+#+1536095911
+gcc leapYear.c
+#+1536095913
+./a.out leapYear.c
+#+1536095932
+gcc leapYear.c
+#+1536095934
+./a.out leapYear.c
+#+1536096148
+gcc leapYear.c
+#+1536096150
+./a.out leapYear.c
+#+1536096243
+gcc leapYear.c
+#+1536096245
+./a.out leapYear.c
+#+1536096377
+gcc leapYear.c
+#+1536096378
+./a.out leapYear.c
+#+1536096483
+gcc leapYear.c
+#+1536096485
+./a.out leapYear.c
+#+1536096774
+gcc leapYear.c
+#+1536096776
+./a.out leapYear.c
+#+1536097212
+gcc leapYear.c
+#+1536097214
+./a.out leapYear.c
+#+1536097608
+gcc leapYear.c
+#+1536097612
+./a.out leapYear.c
+#+1536097755
+gcc leapYear.c
+#+1536097758
+./a.out leapYear.c
+#+1536097844
+gcc leapYear.c
+#+1536097845
+./a.out leapYear.c
+#+1536121624
+gcc -lm refraction.c
+#+1536121658
+gcc refraction.c
+#+1536122110
+gcc -lm refractions.c
+#+1536122125
+./a.out refractions.c
+#+1536122222
+gcc -lm refractions.c
+#+1536122225
+./a.out refractions.c
+#+1536122557
+gcc -lm refractions.c
+#+1536122561
+./a.out refractions.c
+#+1536122622
+gcc -lm refractions.c
+#+1536122626
+./a.out refractions.c
+#+1536122686
+gcc -lm refractions.c
+#+1536122689
+./a.out refractions.c
+#+1536122750
+gcc -lm refractions.c
+#+1536122753
+./a.out refractions.c
+#+1536122850
+gcc -lm refractions.c
+#+1536122852
+./a.out refractions.c
+#+1536123016
+gcc -lm refractions.c
+#+1536123018
+./a.out refractions.c
+#+1536123190
+gcc -lm refractions.c
+#+1536123192
+./a.out refractions.c
+#+1536123230
+gcc -lm refractions.c
+#+1536123232
+./a.out refractions.c
+#+1536158971
+gcc -lm refractions.c
+#+1536158976
+./a.out refractions.c
+#+1536159016
+gcc -lm refractions.c
+#+1536159017
+./a.out refractions.c
+#+1536159116
+gcc -lm refractions.c
+#+1536123232
+./a.out refractions.c
+#+1536159116
+gcc -lm refractions.c
+#+1536174977
+gcc -lm refraction.c
+#+1536174985
+./a.out refraction.c
+#+1536177691
+gcc -lm rateOfReturn.c
+#+1536177714
+./a.out rateOfReturn.c
+#+1536177823
+gcc -lm rateOfReturn.c
+#+1536177825
+./a.out rateOfReturn.c
+#+1536177988
+gcc -lm rateOfReturn.c
+#+1536177990
+./a.out rateOfReturn.c
+#+1536178189
+gcc -lm rateOfReturn.c
+#+1536178192
+./a.out rateOfReturn.c
+#+1536178262
+gcc -lm rateOfReturn.c
+#+1536178263
+./a.out rateOfReturn.c
+#+1536179783
+make kaprekarDemo
+#+1536180115
+`make kaprekarDemo
+#+1536180132
+gcc kaprekarDemo
+#+1536180157
+gcc kaprekarDemo.c
+#+1536186068
+gcc -lm refraction.c
+#+1536186088
+./a.out refraction.c
+#+1536186110
+gcc -lm rateOfReturn.c
+#+1536178263
+./a.out rateOfReturn.c

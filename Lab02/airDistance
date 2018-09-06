@@ -1,0 +1,46 @@
+/**
+*
+*Author: Drew Lauby
+*
+*This program prompts the user for the latitude and
+*longitude coordinates of two locations and
+*computes the distance between them.
+*/
+#include<stdio.h>
+#include<math.h>
+#include<stdlib>
+
+int main()
+
+double lat1, long1, lat2, long2
+double pi = 3.14
+double distance
+int R = 6371
+double longdif = (long2 - long1) {
+  printf ("Please enter the origin's latitude:\n");
+  scanf ("%lf, &lat1");
+
+  printf ("Please enter the origin's longitude:\n");
+  scanf ("%lf, &long1");
+
+  printf ("Please enter the destination's latitude:\n");
+  scanf ("%lf, &lat2");
+
+  printf ("Please enter the destination's longitude:\n");
+  scanf ("%lf, &long2");
+
+  lat1 = lat1 * (pi / 180);
+  long2 = long2 * (pi / 180);
+  lat2 = lat2 * (pi / 180);
+  long2 = long2 * (pi / 180);
+
+  double airDis = acos(sin(lat1)sin(lat2) + cos(lat1)cos(lat2)cos(longdif)) * R;
+
+  printf ("Location Distance\n")
+  printf ("======================\n")
+  printf ("Origin:    (%f, %f, lat1, long1\n)");
+  printf ("Destination:   (%f, %f\n, lat2, long2\n)");
+  printf ("Air distance is %f\n, airDis\n");
+
+
+}
